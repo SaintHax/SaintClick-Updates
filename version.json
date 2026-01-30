@@ -1,7 +1,7 @@
 {
   "product": "SaintClick Software",
   "version": "6.0.1",
-  "exe": "SaintClick Software.exe",
+  "exe_url": "https://github.com/SaintHax/SaintClick-Updates/releases/download/v6.0.1/SaintClick.Software.exe",
   "sha256": "",
   "mandatory": true,
   "changelog": "Mejoras de estabilidad y seguridad"
