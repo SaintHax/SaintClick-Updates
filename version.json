@@ -1,0 +1,8 @@
+{
+  "product": "SaintClick Software",
+  "version": "6.0.1",
+  "exe": "SaintClick Software.exe",
+  "sha256": "",
+  "mandatory": true,
+  "changelog": "Mejoras de estabilidad y seguridad"
+}
